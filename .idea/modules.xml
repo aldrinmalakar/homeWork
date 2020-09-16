@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/homewokTodo.iml" filepath="$PROJECT_DIR$/homewokTodo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeWorkToDo.iml" filepath="$PROJECT_DIR$/homeWorkToDo.iml" />
     </modules>
   </component>
 </project>
